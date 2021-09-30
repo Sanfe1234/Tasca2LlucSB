@@ -13,6 +13,7 @@ body {
 section.section-articles {
     width: 800px;
     padding: 50px;
+    margin: auto;
 }
 
 .article-wrapper {
